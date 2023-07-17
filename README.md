@@ -16,3 +16,37 @@ The paper has multiple contributions, categorised into conceptual, methodologica
 4. Another significant contribution to data applications is our development of specific variables and features that are needed to accurately identify the environmental impact over time and space. Given the variations in observational timestamps and spatial recording monitors in the data sets, such feature engineering is essential. It contains pertinent information that encapsulates variability and sheds light on the behaviour of the underlying data.
 5. A key finding of our study is the substantial and interpretable correlation identified when applying our methodology to green bond municipal financial data and pollution data in nine counties in California. These results are directly related to the volume of green bond issuance, emphasising the real-world environmental impact of these financial instruments. Such investigations can confirm the direct influence of green bonds on climate change reduction, improving market transparency, and increasing faith in green bonds.
 
+## Motivations For the Development of the Paper
+
+The combination of multiple multivariate data sets is of primary importance in financial end environmental modelling applications. 
+
+
+
+## Methodology of the Paper
+
+
+https://github.com/mcampi111/Shades-of-Green-Unveiling-the-Impact-of-Municipal-Green-Bonds-of-the-Environment/files/12071231/diag_method_2.pdf
+
+## Organization of the Repository
+The repository is organized in the following folders:
+
+
+
+
+## Cite
+
+If you use this code in your project, please cite:
+
+@article{campi2023ataxic,
+  title={Ataxic speech disorders and Parkinson’s disease diagnostics via stochastic embedding of empirical mode decomposition},
+  author={Campi, Marta and Peters, Gareth W and Toczydlowska, Dorota},
+  journal={Plos one},
+  volume={18},
+  number={4},
+  pages={e0284667},
+  year={2023},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+
+
