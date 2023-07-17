@@ -25,9 +25,13 @@ The combination of multiple multivariate data sets is of primary importance in f
 ## Methodology of the Paper
 
 
+<p align="center">
+    <img src="https://i.postimg.cc/Y9Nt399V/diag-method-2.png" width="590" height="460" />
+</p>
 
 ## Organization of the Repository
 The repository is organized in the following folders:
+
 
 
 
