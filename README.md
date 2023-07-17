@@ -25,7 +25,6 @@ The combination of multiple multivariate data sets is of primary importance in f
 ## Methodology of the Paper
 
 
-https://github.com/mcampi111/Shades-of-Green-Unveiling-the-Impact-of-Municipal-Green-Bonds-of-the-Environment/files/12071231/diag_method_2.pdf
 
 ## Organization of the Repository
 The repository is organized in the following folders:
