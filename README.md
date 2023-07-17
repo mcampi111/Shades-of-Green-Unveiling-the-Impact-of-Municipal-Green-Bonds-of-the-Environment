@@ -36,6 +36,10 @@ The repository is organized in the following folders:
 
 
 
+## Shiny App Instructions
+The Shiny App can be used as follows:
+
+
 
 
 ## Cite
