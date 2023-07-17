@@ -1,2 +1,2 @@
-# Green-Bond-Performance-with-KPCA-and-CCA
-Repository with data and code of the paper "Green Bond Performance and Risk Indicators with KPCA and CCA"
+# Shades of Green: Unveiling the Impact of Municipal Green Bonds of the Environment
+Repository with data and code of the paper "Shades of Green: Unveiling the Impact of Municipal Green Bonds of the Environment"
