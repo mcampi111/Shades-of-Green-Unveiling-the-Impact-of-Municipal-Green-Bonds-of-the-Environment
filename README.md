@@ -20,11 +20,17 @@ The paper has multiple contributions, categorised into conceptual, methodologica
 
 ## Motivations For the Development of the Paper
 
-The combination of multiple multivariate data sets is of primary importance in financial end environmental modelling applications. 
+Green bonds are distinctive financial instruments that direct funds towards environmentally advantageous initiatives, setting them apart from their conventional bond counterparts. However, assessing the potential for carbon reduction of these bonds presents a considerable challenge for investors due to the lack of standardised reporting on environmental impact. Our research initiative designed a unique set of indicators to address this gap, leveraging financial and environmental data sets and employing sophisticated statistical techniques.
 
+The methodology and experimental design applied in this study facilitated an in-depth and multifaceted exploration of the influence of green bonds on environmental and climate-associated parameters in Californian counties. California, chosen for its abundant data availability and numerous environmental monitoring stations, offered an ideal backdrop for our investigation. Although the positioning of these stations introduced certain complexities, they did not detract from the overall viability of the study. The research focused on key cities in California, incorporating areas within a 50 km radius. This decision imbued the study with a layer of practical realism, as these zones frequently serve as the nucleus for dynamic economic and environmental operations, making them prime areas for the likely tangible effects of green bond issuance.
+
+Integrating three different data sets, pollution, climate, and green bonds, into our research approach, we achieved a multifaceted view of the complex interplay between fiscal incentives and environmental improvement. This multidimensional perspective, together with our rigorous methodology, underscores the potential and importance of green bonds in instigating significant positive environmental change, providing a valuable reference for investors interested in environmentally responsible investment opportunities.
 
 
 ## Methodology of the Paper
+
+
+The combination of multiple multivariate data sets is of primary importance in financial end environmental modelling applications. The use of non-stationary covariance decomposition methods in combination with a multivariate solution gives us the opportunity to develop a tool which is robust to real-data scenario settings. By considering such a methodlogy, we can then investigate the impact of Municipal Green Bonds over pollution and climate. 
 
 
 <p align="center">
