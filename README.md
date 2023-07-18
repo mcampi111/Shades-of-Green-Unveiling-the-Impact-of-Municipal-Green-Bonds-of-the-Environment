@@ -1,7 +1,7 @@
 # Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment
 This repository is linked to the methodology developed in the paper with title
 
-**"Shades of Green: Unveiling the Impact of Municipal Green Bonds of the Environment"**. The pdf for the paper is available at this url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808550 or provided in the folder "Paper", where it is also possibile to find the Supplementary Materials.
+**"Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment"**. The pdf for the paper is available at this url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808550 or provided in the folder "Paper", where it is also possibile to find the Supplementary Materials.
 
 There is a **shiny app** available at https://mcjc-2020.shinyapps.io/final_results/
 
