@@ -46,16 +46,10 @@ The Shiny App can be used as follows:
 
 If you use this code in your project, please cite:
 
-@article{campi2023ataxic,
-  title={Ataxic speech disorders and Parkinson’s disease diagnostics via stochastic embedding of empirical mode decomposition},
-  author={Campi, Marta and Peters, Gareth W and Toczydlowska, Dorota},
-  journal={Plos one},
-  volume={18},
-  number={4},
-  pages={e0284667},
-  year={2023},
-  publisher={Public Library of Science San Francisco, CA USA}
+@article{campi2021green,
+  title={Green Bond Performance and Risk Indicators},
+  author={Campi, Marta and Peters, Gareth W and Richards, Kylie-Anne},
+  journal={Available at SSRN 3808550},
+  year={2021}
 }
-
-
 
