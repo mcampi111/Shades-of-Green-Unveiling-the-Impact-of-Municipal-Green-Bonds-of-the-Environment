@@ -39,6 +39,13 @@ Data spatial-temporal multivariate analysis is essential in financial end enviro
 
 Firstly, the kPCA-CCA and its benchmark PCA-CCA are run to observe municipal green bonds' impact on pollution and climate. Therefore, the analysis will be performed by running kPCA-CCA (and PCA-CCA) on pollution vs financial kPCs (PCs) and climate vs financial kPCs (PCs). The Figure is set on the first case, but we perform an equivalent analysis for climate. Hence, we will describe the pair pollution/financial figure and consider similar steps for the case of climate/financial. Given the pollution and financial data sets, we split them by county and performed ad hoc cleaning and pre-processing procedures. Afterwards, a specific set of features was extracted depending on the data. In the case of pollution, this has foreseen engineering ad hoc features summarising information across many time series collected at various monitors. In the case of financial, numerical and categorical variables have been handled. After, both the linear PCA and the non-linear kPCA have been applied, and, for each method, the first two bases (PC1, PC2, kPC1, kPC2) have been retained. Once obtained, the next step consisted of comparing which bases better captured the variability of the given data set through centered kernel target alignment (cKTA), introduced in the main body of the paper. Finally, the PCA-CCA and the kPCA-CCA will be computed between pollution and financial PCs and kPCs, respectively, to measure the association of green bonds with pollution attributes within different counties in California and quantify a certain impact. 
 
+The obtained results for the kPCA-CCA are significant and presented in the paper. We provide structured coefficients for interpretation, which will be given in the following figures. It is indeed possible to observe the results of the kPC1-CV1 (left) and kPC2-CV1 (right). The two kPCs capture different variation modes provided by the different number of issued green bonds per county. The direction of the correlations has a direct interpretation. More explanation is provided in the main body of the paper.
+
+<p align="center">
+    <img src="https://i.postimg.cc/MKBJ8kTz/screen-poll1.png" width="290" height="260" />
+    <img src="https://i.postimg.cc/mrHmP4vr/screen-poll2.png" width="290" height="260" />
+</p>
+
 
 
 ## Organization of the Repository
