@@ -57,7 +57,7 @@ The Shiny App can be used as follows:
 If you use this code in your project, please cite:
 
 @article{campi2021green,
-  title={Green Bond Performance and Risk Indicators},
+  title={Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment},
   author={Campi, Marta and Peters, Gareth W and Richards, Kylie-Anne},
   journal={Available at SSRN 3808550},
   year={2021}
