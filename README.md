@@ -52,6 +52,66 @@ The obtained results for the kPCA-CCA are significant and presented in the paper
 The repository is organized in the following folders:
 
 
+```diff
++ 1) Python_code 
+```
+In this folder, there are the following .py codes, used for the evaluation of the kPCs on a new mesh. 
+
+1.  **project_x.py**. blablabla.
+2. **project_x_2.py**. blablabla.
+3.  **project_x_3.py**. blablabla.
+4.  **stepwise_kpca.py**. blablabla.
+5.  **stepwise_kpca_2.py**. blablabla.
+
+   
+```diff
++ 2) R_code 
+```
+This folder contains the R code developed for the analysis of the paper. This is structured within the following folders:
+
+1.  **CCA**. blablabla.
+2. **climate**. blablabla.
+3.  **financial**. blablabla.
+4.  **pollution**. blablabla.
+
+```diff
++ 3) climate_data 
+```
+This folder contains the climate data used for the analysis. Both the raw_data and the features are provided as follows:
+
+1.  **raw_data**. blablabla.
+2. **features**. blablabla.
+
+
+
+```diff
++ 4) finance_data 
+```
+
+
+
+```diff
++ 5) paper 
+```
+
+
+```diff
++ 6) paper_figures 
+```
+
+
+```diff
++ 7) pollution_data
+```
+
+This folder contains the pollution data used for the analysis. Both the raw_data and the features are provided as follows:
+
+1.  **raw_data**. blablabla.
+2. **features**. blablabla.
+
+
+
+
 
 ## Shiny App Instructions
 The Shiny App can be used as follows:
