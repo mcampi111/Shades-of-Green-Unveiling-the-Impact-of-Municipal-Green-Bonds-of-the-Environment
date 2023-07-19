@@ -1,7 +1,7 @@
 # Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment
 This repository is linked to the methodology developed in the paper with title
 
-**"Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment"**. The pdf for the paper is available at this url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808550 or provided in the folder "Paper", where it is also possibile to find the Supplementary Materials.
+**"Shades of Green: Unveiling the Impact of Municipal Green Bonds on the Environment"**. The pdf for the paper is available at this url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808550 or provided in the folder "paper", where it is also possibile to find the Supplementary Materials.
 
 There is a **shiny app** available at https://mcjc-2020.shinyapps.io/final_results/
 
@@ -93,12 +93,12 @@ This folder contains the climate data used for the analysis. Both the raw_data a
 ```diff
 + 5) paper 
 ```
-
+This folder contains the draft of the paper which is also available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3808550.
 
 ```diff
 + 6) paper_figures 
 ```
-
+This folder contains all the paper figures of the paper. For each figure produced, there is an Rcode associated within the R_code folder.
 
 ```diff
 + 7) pollution_data
