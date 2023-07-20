@@ -57,9 +57,8 @@ The repository is organized in the following folders:
 ```
 In this folder, there are the following .py codes, used for the evaluation of the kPCs on a new mesh. 
 
-1.  **project_x.py**. blablabla.
-2. **project_x_2.py**. blablabla.
-3.  **project_x_3.py**. blablabla.
+1.  **project_x.py**. This python file projects the existing kPCs on a new mesh, using an RBF kernel. Note that the eigenvalues/eigenvectors are required.
+2. **project_x_2.py**. This python file projects the existing kPCs on a new mesh, using an RBF kernel on the set of the numerical variables (X1) and  a Jaccard kernel, on the set of the categorical variable (X2).
 
    
 ```diff
