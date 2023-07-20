@@ -58,7 +58,7 @@ The repository is organized in the following folders:
 In this folder, there are the following .py codes, used for the evaluation of the kPCs on a new mesh. 
 
 1.  **project_x.py**. This python file projects the existing kPCs on a new mesh, using an RBF kernel. Note that the eigenvalues/eigenvectors are required.
-2. **project_x_2.py**. This python file projects the existing kPCs on a new mesh, using an RBF kernel on the set of the numerical variables (X1) and  a Jaccard kernel, on the set of the categorical variable (X2).
+2. **project_x_2.py**. This python file projects the existing kPCs on a new mesh, using an RBF kernel on the set of the numerical variables (X1) and  a Jaccard kernel, on the set of the categorical variable (X2). Note that the eigenvalues/eigenvectors are required.
 
    
 ```diff
@@ -66,7 +66,7 @@ In this folder, there are the following .py codes, used for the evaluation of th
 ```
 This folder contains the R code developed for the analysis of the paper. This is structured within the following folders:
 
-1.  **CCA**. blablabla.
+1.  **CCA**. This folder contains the code for the extraction of the Canonical Correlation Analysis given in cca_cali.R and the code for producing the helioplots in the paper and in the above description (only some) in cca_circular_barplot.R.
 2. **climate**. blablabla.
 3.  **financial**. blablabla.
 4.  **pollution**. blablabla.
