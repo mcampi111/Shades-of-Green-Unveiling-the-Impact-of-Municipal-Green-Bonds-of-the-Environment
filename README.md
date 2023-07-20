@@ -60,8 +60,6 @@ In this folder, there are the following .py codes, used for the evaluation of th
 1.  **project_x.py**. blablabla.
 2. **project_x_2.py**. blablabla.
 3.  **project_x_3.py**. blablabla.
-4.  **stepwise_kpca.py**. blablabla.
-5.  **stepwise_kpca_2.py**. blablabla.
 
    
 ```diff
