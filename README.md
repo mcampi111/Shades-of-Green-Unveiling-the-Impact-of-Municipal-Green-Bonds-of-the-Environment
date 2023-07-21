@@ -67,18 +67,17 @@ In this folder, there are the following .py codes, used for the evaluation of th
 This folder contains the R code developed for the analysis of the paper. This is structured within the following folders:
 
 1.  **CCA**. This folder contains the code for the extraction of the Canonical Correlation Analysis given in cca_cali.R and the code for producing the helioplots in the paper and in the above description (only some) in cca_circular_barplot.R.
-2. **climate**. blablabla.
-3.  **financial**. blablabla.
-4.  **pollution**. blablabla.
+2. **climate**. This folder contains the code for the extraction, pre-processing, feature engineering and PCA/kPCA computations of the climate data. 
+3.  **financial**. This folder contains the code for.....
+4.  **pollution**. This folder contains the code for the extraction, pre-processing, feature engineering and PCA/kPCA computations of the pollution data..
 
 ```diff
 + 3) climate_data 
 ```
 This folder contains the climate data used for the analysis. Both the raw_data and the features are provided as follows:
 
-1.  **raw_data**. blablabla.
-2. **features**. blablabla.
-
+1.  **raw_data**. This folders contains the raw data extracted for the climate variables. This data has been extracted through the R package for the GSOD website, hence data is in the RData format.
+2. **features**.  This folders contains the engineered features for the climate variables, whose extraction procedure is presented in the main body of the paper. 
 
 
 ```diff
@@ -103,16 +102,13 @@ This folder contains all the paper figures of the paper. For each figure produce
 
 This folder contains the pollution data used for the analysis. Both the raw_data and the features are provided as follows:
 
-1.  **raw_data**. blablabla.
-2. **features**. blablabla.
-
-
-
-
+1.  **raw_data**. This folders contains the raw data extracted for the pollution variables. This data has been extracted through the R package for the GSOD website, hence data is in the RData format.
+2. **features**.  This folders contains the engineered features for the pollution variables, whose extraction procedure is presented in the main body of the paper. 
 
 ## Shiny App Instructions
-The Shiny App can be used as follows:
+The Shiny App provided at https://mcjc-2020.shinyapps.io/final_results/ can be used as follows:
 
+The **top results** provide information about the different kPCA-CCA results where one can change the number of kPCs considered (i.e. 1 and 2), the canonical variate of interest (i.e. 1,2,3) and the multivariate relationship taken into account, i.e. Green Bonds vs Pollution or Green Bonds vs Climate, per county. These commands will change the underlying helio plots. Furthermore, the kPCs of the different data sets can be observed. While the ones extracted by the financial variables are always visible, it is possible to change the kCPs and observe the ones of the pollution data or the ones of the climate data. This can be done by selecting two facets, Quarters and County or by considering only one of the two facets individually. 
 
 
 
