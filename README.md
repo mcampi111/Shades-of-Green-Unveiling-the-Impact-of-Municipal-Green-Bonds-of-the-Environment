@@ -68,7 +68,7 @@ This folder contains the R code developed for the analysis of the paper. This is
 
 1.  **CCA**. This folder contains the code for the extraction of the Canonical Correlation Analysis given in cca_cali.R and the code for producing the helioplots in the paper and in the above description (only some) in cca_circular_barplot.R.
 2. **climate**. This folder contains the code for the extraction, pre-processing, feature engineering and PCA/kPCA computations of the climate data. 
-3.  **financial**. This folder contains the code for.....
+3.  **financial**. This folder contains the code for the extraction, pre-processing, feature engineering and PCA/kPCA computations of the financial data.
 4.  **pollution**. This folder contains the code for the extraction, pre-processing, feature engineering and PCA/kPCA computations of the pollution data..
 
 ```diff
@@ -83,8 +83,9 @@ This folder contains the climate data used for the analysis. Both the raw_data a
 ```diff
 + 4) finance_data 
 ```
+This folder contains the climate data used for the analysis.The raw data cannot be shared since coming from the Bloomberg terminal. Howevern the features are provided:
 
-
+1. **features**.  This folders contains the engineered features for the finanial variables, whose extraction procedure is presented in the main body of the paper. 
 
 ```diff
 + 5) paper 
