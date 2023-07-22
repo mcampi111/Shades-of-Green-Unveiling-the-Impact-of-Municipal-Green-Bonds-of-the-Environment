@@ -16,34 +16,32 @@ This folder contains the Rcode implemented for the data pre-processing, feature 
 + 1) climate
 ```
 1. **GSODR_extraction.R**. This code performs the extraction of 10 year climate time series from the GSODR website through its available R package.
-2.  **ckta_res.R**. This code cpmputes the cKTAs of the .
-3.  **kPCA_Cali.R**. .
-4. **kPCA_by_state.R**. .
-5.  **pca_extraction.R**. .
-6.  **plot_seas_climate.R**. .
-7.  ****. .
-
+2.  **ckta_res.R**. This code computes the cKTAs of the different kPCs and PCs. These are provided in the results of the Index Analysis subsection.
+3.  **kPCA_Cali.R**. This code performs the kPCs extraction for the data of California considered in this paper.
+4. **kPCA_by_state.R**. This code performs extra kPCs extraction that can be used for future work since it considers all the US states.
+5.  **pca_extraction.R**. This code performs the PCs extraction for California.
+6.  **plot_seas_climate.R**. This code provides all the plots related to the kPCs and the PCs of the climate case.
 
 ```diff
 + 1) financial
 ```
 1. **ckta_cat_var.R**. .
-2.  **ckta_kpca_vat.R**. .
-3.  **ckta_res_gb.R**.  .
-4.  **kPCs_extraction.R**. .
-5. **pca_extraction.R**. .
+2.  **ckta_kpca_vat.R**. This code computes the cKTAs of the different kPCs. These are provided in the results of the Index Analysis subsection.
+3.  **ckta_res_gb.R**.  This code computes the cKTAs of the different combinations of categorical variables to understand the relative contribution of each variable within each county. The results are provided in the Appendix.
+4.  **kPCs_extraction.R**. This code performs the kPCs extraction for the data of California considered in this paper.
+5. **pca_extraction.R**. This code performs the PCs extraction for California. Further, the cKTA for the PCs is also calculated.
 
 
 ```diff
 + 1) pollution
 ```
-1. **AQI.R**. .
-2.  **CO2.R**. .
-3.  **NO2.R**. .
-4. **PM2.5.R**. .
-5.  **ckta_res.R**. .
-6.  **kpca_by_state.R**. .
-7.  **kpca_cali.R**. .
-8.  **pca_cali.R**. .
-9.  **plots_res.R**. .
+1. **AQI.R**. This code performs the data preparation for the AQI time series prior to the extraction of the PCs/kPCs.
+2.  **CO2.R**. This code performs the data preparation for the CO time series prior to the extraction of the PCs/kPCs.
+3.  **NO2.R**. This code performs the data preparation for the NO2 time series prior to the extraction of the PCs/kPCs.
+4. **PM2.5.R**. This code performs the data preparation for the PM2.5 time series prior to the extraction of the PCs/kPCs.
+5.  **ckta_res.R**. This code computes the cKTAs of the different kPCs and PCs. These are provided in the results of the Index Analysis subsection.
+6.  **kpca_by_state.R**. This code performs extra kPCs extraction that can be used for future work since it considers all the US states.
+7.  **kpca_cali.R**. This code performs the kPCs extraction for the data of California considered in this paper.
+8.  **pca_cali.R**. This code performs the PCs extraction for the data of California considered in this paper.
+9.  **plots_res.R**. This code provides all the plots related to the kPCs and the PCs of the pollution  case.
 
