@@ -25,5 +25,3 @@ particulate matter 2.5, Sulfur dioxide on a daily basis for 10 years. The data a
 2. **CO_daily_2010_2020**. Daily data for 10 years.
 3. **NO2_daily_2010_2020**. Daily data for 10 years.
 4. **PM25_daily_2010_2020**. Daily data for 10 years.
-5. **SO2_daily_2010_2020**. Daily data for 10 years.
-
