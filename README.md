@@ -110,7 +110,7 @@ The Shiny App provided at https://mcjc-2020.shinyapps.io/final_results/ can be u
 
 The **top results** provide information about the different kPCA-CCA results where one can change the number of kPCs considered (i.e. 1 and 2), the canonical variate of interest (i.e. 1,2,3) and the multivariate relationship taken into account, i.e. Green Bonds vs Pollution or Green Bonds vs Climate, per county. These commands will change the underlying helio plots. Furthermore, the kPCs of the different data sets can be observed. While the ones extracted by the financial variables are always visible, it is possible to change the kCPs and observe the ones of the pollution data or the ones of the climate data. This can be done by selecting two facets, Quarters and County or by considering only one of the two facets individually. 
 
-The **bottom results** provide information about the variables of the financial data set that have been used. The **right panel** allows to choose between numerical and categorical variables. Then, if categorical is selected, 
+The **bottom results** provide information about the variables of the financial data set that have been used. The **right panel** allows to choose between numerical and categorical variables. If categorical is selected, then one can observe the cKTA (the cKTA definition is described in the paper) for each individual categorical variable to the entire set of categorical variables. The cKTA shows the distance between that variable and the whole set. In this way, the contribute in the variation can be identified per variable and per county. If numerical variables are observed instead, then 
 
 
 ## Cite
